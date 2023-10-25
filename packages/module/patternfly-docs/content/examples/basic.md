@@ -10,6 +10,8 @@ source: react
 # If you use typescript, the name of the interface to display props for
 # These are found through the sourceProps function provided in patternfly-docs.source.js
 propComponents: ['FeedbackModalProps']
+# Link to source on GitHub
+sourceLink: https://github.com/patternfly/react-user-feedback/blob/main/packages/module/patternfly-docs/content/examples/basic.md
 ---
 
 import { FeedbackModal } from "@patternfly/react-user-feedback";

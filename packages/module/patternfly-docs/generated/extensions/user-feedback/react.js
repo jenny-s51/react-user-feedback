@@ -13,7 +13,7 @@ const pageData = {
   "source": "react",
   "tabName": null,
   "slug": "/extensions/user-feedback/react",
-  "sourceLink": "https://github.com/patternfly/patternfly-react/blob/main/packages/module/patternfly-docs/content/examples/basic.md",
+  "sourceLink": "https://github.com/patternfly/react-user-feedback/blob/main/packages/module/patternfly-docs/content/examples/basic.md",
   "relPath": "packages/module/patternfly-docs/content/examples/basic.md",
   "propComponents": [
     {
